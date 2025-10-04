@@ -105,554 +105,299 @@
       "name": "小猫咪资源",
       "is_adult": false
     },
-    "if101": {
-      "api": "http://api.if101.tv/v1/vod",
-      "name": "if101资源",
-      "detail": "type: 1",
-      "is_adult": false
-    },
-    "tangrenjie": {
-      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
-      "name": "唐人街",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "dbk": {
-      "api": "https://raw.githubusercontent.com/trial/dp/master/json2/dbk.json",
-      "name": "独播库",
-      "detail": "type: 8",
-      "is_adult": false
-    },
-    "olevod": {
-      "api": "https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json",
-      "name": "欧乐影院",
-      "detail": "type: 8",
-      "is_adult": false
-    },
-    "wwdc": {
-      "api": "https://raw.githubusercontent.com/trial/dp/master/json2/wwdc2022.json",
-      "name": "WWDC2022",
-      "detail": "type: 8",
-      "is_adult": false
-    },
-    "jable": {
-      "api": "https://raw.githubusercontent.com/trial/dp/master/json2/jable.json",
-      "name": "Jable",
-      "detail": "type: 8",
-      "is_adult": false
-    },
-    "madouse": {
-      "api": "http://madouse.la/api.php/provide/vod/at/xml",
-      "name": "麻豆视频",
-      "detail": "type: 6",
-      "is_adult": false
-    },
-    "apilj": {
-      "api": "http://apilj.com/api.php/provide/vod/at/xml",
-      "name": "辣椒资源",
-      "detail": "type: 6",
-      "is_adult": false
-    },
-    "siwazyw": {
-      "api": "https://siwazyw.cc/api.php/provide/vod/at/xml",
-      "name": "丝袜资源",
-      "detail": "type: 6",
-      "is_adult": false
-    },
-    "wmcj8": {
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "name": "环亚资源",
-      "detail": "type: 6",
-      "is_adult": false
-    },
-    "caiji03": {
-      "api": "https://www.caiji03.com/home/cjapi/cfg8/mc/vod/xml",
-      "name": "一本道资源",
-      "detail": "type: 6",
-      "is_adult": false
-    },
-    "caiji24": {
-      "api": "http://www.caiji24.com/home/cjapi/p0d2/mc/vod/xml",
-      "name": "大屌丝资源",
-      "detail": "type: 6",
-      "is_adult": false
-    },
-    "caiji21": {
-      "api": "http://www.caiji21.com/home/cjapi/klkl/mc/vod/xml",
-      "name": "我要啪啪",
-      "detail": "type: 6",
-      "is_adult": false
-    },
-    "vipmv": {
-      "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-      "name": "天堂资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "zycaiji": {
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
-      "name": "M3U8.TV资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "qilinzyz": {
-      "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
-      "name": "麒麟资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "nxflv": {
-      "api": "http://caiji.nxflv.com/api.php/provide/vod/at/xml",
-      "name": "诺讯资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "ukuapi": {
-      "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml",
-      "name": "U酷资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "renrenmi": {
-      "api": "https://koko.renrenmi.cc/api.php/provide/vod/at/xml",
-      "name": "人人迷蓝光",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "taopianapi": {
-      "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
-      "name": "淘片资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "lehootv": {
-      "api": "https://lehootv.com/api.php/provide/vod/at/xml",
-      "name": "乐活影视",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "apiyhzy": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
-      "name": "樱花资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "kuapi": {
-      "api": "https://api.kuapi.cc/api.php/provide/vod/at/xml",
-      "name": "酷点资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "sugengzy": {
-      "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
-      "name": "速更资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "sdzyapi": {
-      "api": "http://sdzyapi.com/api.php/provide/vod/at/xml",
-      "name": "闪电资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "ylzy1": {
-      "api": "https://api.ylzy1.com/api.php/provide/vod/at/xml",
-      "name": "鱼乐资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "hanjuzy": {
-      "api": "http://www.hanjuzy.com/inc/api.php",
-      "name": "韩剧资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "kuaibozy": {
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
-      "name": "快播资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "bajiecaiji": {
-      "api": "http://cj.bajiecaiji.com/inc/api.php",
-      "name": "八戒资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "apibdzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
-      "name": "百度资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "wolongzyw": {
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
-      "name": "卧龙资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "tiankongapi": {
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml",
-      "name": "天空资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "leduocaiji": {
-      "api": "http://cj.leduocaiji.com/inc/api.php",
-      "name": "乐多资源",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "shdmv": {
-      "api": "http://shdmv.com/api.php/provide/vod/at/xml",
-      "name": "超高清影视",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "qkmp4": {
-      "api": "https://qkmp4.cn/api.php/provide/vod/at/xml",
-      "name": "趣看",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "39kan": {
-      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
-      "name": "39影视",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "judashen": {
-      "api": "http://judashen.com/api.php/provide/vod/at/xml",
-      "name": "剧大神",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "200121": {
-      "api": "https://www.200121.com/api.php/provide/vod/at/xml",
-      "name": "海外电影",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "zzrhgg": {
-      "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
-      "name": "飘花电影",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "dqyhg": {
-      "api": "http://wy.dqyhg.cn/api.php/provide/vod/at/xml",
-      "name": "千寻时光",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "vp1127": {
-      "api": "https://www.vp1127.com/api.php/provide/vod/at/xml",
-      "name": "快看客栈",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "prinevillesda": {
-      "api": "https://www.prinevillesda.org/api.php/provide/vod/at/xml",
-      "name": "网民电影",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "mbomovie": {
-      "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
-      "name": "MBO影视",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "huimaojia": {
-      "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
-      "name": "兔子窝",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "zwcoco": {
-      "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml",
-      "name": "哇可可影视",
-      "detail": "type: 0",
-      "is_adult": false
-    },
-    "9e03": {
-      "api": "http://vod.9e03.com/lvdou_api.php/v1.vod",
-      "name": "9e国语",
-      "is_adult": false
-    },
-    "ttzmz": {
-      "api": "http://ttzmz.net/api.php/v1.vod",
-      "name": "美剧范",
-      "is_adult": false
-    },
-    "meijuchong": {
-      "api": "https://meijuchong.com/api.php/v1.vod",
-      "name": "美剧虫",
-      "is_adult": false
-    },
-    "yss6080": {
-      "api": "http://luobu.yss6080.com/mogai_api.php/v1.vod",
-      "name": "益达影院",
-      "is_adult": false
-    },
-    "ishen520": {
-      "api": "http://app.ishen520.com/api.php/v1.vod",
-      "name": "大猫影视",
-      "is_adult": false
-    },
-    "yugenye": {
-      "api": "http://luobu.yugenye.site/api.php/v1.vod",
-      "name": "渔渔影视",
-      "is_adult": false
-    },
-    "lltpys": {
-      "api": "http://www.lltpys.com/api.php/app/",
-      "name": "躺平影视",
-      "is_adult": false
-    },
-    "kan365": {
-      "api": "https://www.kan365.xyz/api.php/app/",
-      "name": "看365",
-      "is_adult": false
-    },
-    "bcwzg": {
-      "api": "https://www.bcwzg.com/api.php/app/",
-      "name": "北川",
-      "is_adult": false
-    },
-    "zteys": {
-      "api": "https://app.zteys.com/api.php/v1.vod",
-      "name": "钟特影视",
-      "is_adult": false
-    },
-    "tkysv2": {
-      "api": "https://www.tkys.tv/xgapp.php/v2/",
-      "name": "天空V2",
-      "is_adult": false
-    },
-    "3ri": {
-      "api": "https://www.3ri.net/api.php/v1.vod",
-      "name": "三日影院",
-      "is_adult": false
-    },
-    "slidc": {
-      "api": "http://cr.slidc.top/mubai_api.php/m2.vod",
-      "name": "双鹿影院",
-      "is_adult": false
-    },
-    "lanmaoymw": {
-      "api": "https://lanmao.lanmaoymw.cn/api.php/v1.vod",
-      "name": "懒猫影视",
-      "is_adult": false
-    },
-    "aliys": {
-      "api": "http://aliys.cn:90/api.php/v1.vod",
-      "name": "阿里",
-      "is_adult": false
-    },
-    "qcsvip": {
-      "api": "https://www.qcsvip.com/mogai_api.php/v1.vod",
-      "name": "QC",
-      "is_adult": false
-    },
-    "ledu8": {
-      "api": "http://i.ledu8.cn/api.php/v1.vod",
-      "name": "黄河",
-      "is_adult": false
-    },
-    "jiku": {
-      "api": "https://jiku.vip/mogai_api.php/v1.vod",
-      "name": "极酷视频",
-      "is_adult": false
-    },
-    "juzidy": {
-      "api": "http://jz.juzidy.vip/mogai_api.php/v1.vod",
-      "name": "橘子",
-      "is_adult": false
-    },
-    "gotka": {
-      "api": "http://mkk.gotka.top/api.php/v1.vod",
-      "name": "奇飞专线",
-      "is_adult": false
-    },
-    "tkys": {
-      "api": "https://tkys.tv/xgapp.php/v1/",
-      "name": "天空影视",
-      "is_adult": false
-    },
-    "shangjihuoke": {
-      "api": "https://shangjihuoke.com/api.php/tv.vod",
-      "name": "段友2影视",
-      "is_adult": false
-    },
-    "bl210": {
-      "api": "https://app.bl210.com/api.php/v1.vod",
-      "name": "暖光影视",
-      "is_adult": false
-    },
-    "tcspvip": {
-      "api": "http://tcspvip.cn/api.php/v1.vod",
-      "name": "天诚影视",
-      "is_adult": false
-    },
-    "aitee": {
-      "api": "https://www.aitee.cc/api.php/v1.vod",
-      "name": "艾特影视",
-      "is_adult": false
-    },
-    "66app": {
-      "api": "http://js.66app.me/api.php/app/",
-      "name": "段友影视1",
-      "is_adult": false
-    },
-    "0hzy": {
-      "api": "http://0hzy.cn:9990/mogai_api.php/v1.vod",
-      "name": "比邻影视",
-      "is_adult": false
-    },
-    "zhuijudaren": {
-      "api": "https://www.zhuijudaren.com/mogai_api.php/v1.vod",
-      "name": "追剧达人",
-      "is_adult": false
-    },
-    "269w": {
-      "api": "http://app.269w.com/api.php/v1.vod",
-      "name": "69院线",
-      "is_adult": false
-    },
-    "30dian": {
-      "api": "http://www.30dian.cn/api.php/v1.vod",
-      "name": "创艺",
-      "is_adult": false
-    },
-    "kunyu77": {
-      "api": "http://api.kunyu77.com/api.php",
-      "name": "七七",
-      "is_adult": false
-    },
-    "ffzyapi": {
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "name": "非凡",
-      "is_adult": false
-    },
-    "xhzy02": {
-      "api": "http://www.xhzy02.com/api.php/provide/vod/from/xhm3u8/at/xml/",
-      "name": "星海",
-      "is_adult": false
-    },
-    "jyzyapi": {
-      "api": "https://jyzyapi.com/provide/vod/at/xml",
-      "name": "金鹰",
-      "is_adult": false
-    },
-    "feisuzyapi": {
-      "api": "https://www.feisuzyapi.com/api.php/provide/vod/at/xml",
-      "name": "飞速",
-      "is_adult": false
-    },
-    "kjjapi": {
-      "api": "https://api.kjjapi.com/api.php/provide/vod/at/xml/",
-      "name": "体育竞技",
-      "is_adult": false
-    },
-    "tomcaiji": {
-      "api": "https://api.tomcaiji.com/api.php/provide/vod/at/xml/",
-      "name": "TOM",
-      "is_adult": false
-    },
-    "kudian10": {
-      "api": "https://kudian10.com/api.php/provide/vod/at/xml",
-      "name": "酷点",
-      "is_adult": false
-    },
-    "foxzyapi": {
-      "api": "https://api.foxzyapi.com/api.php/provide/vod/at/xml",
-      "name": "想看",
-      "is_adult": false
-    },
-    "guangsuapi": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
-      "name": "光速",
-      "is_adult": false
-    },
-    "hongniuzy2": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
-      "name": "红牛",
-      "is_adult": false
-    },
-    "xinlangapi": {
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
-      "name": "新浪",
-      "is_adult": false
-    },
-    "kczyapi": {
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
-      "name": "快车",
-      "is_adult": false
-    },
-    "77hanju": {
-      "api": "https://www.77hanju.com/api.php/provide/vod/at/xml/",
-      "name": "77韩剧",
-      "is_adult": false
-    },
-    "ckzy": {
-      "api": "https://ckzy.me/api.php/provide/vod/at/xml",
-      "name": "CK",
-      "is_adult": false
-    },
-    "fqzy": {
-      "api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list",
-      "name": "番茄资源",
-      "is_adult": false
-    },
-    "hongniuzy1": {
-      "api": "https://www.hongniuzy1.com/inc/api.php",
-      "name": "红牛资源",
-      "is_adult": false
-    },
-    "yilans": {
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/?ac=list",
-      "name": "8090资源",
-      "is_adult": false
-    },
-    "fongmi": {
-      "api": "https://dao.fongmi.eu.org/",
-      "name": "FongMi",
-      "is_adult": false
-    },
     "fantaiying": {
-      "api": "https://www.饭太硬.com/",
-      "name": "饭太硬",
+      "api": "http://www.饭太硬.com/tv",
+      "name": "饭太硬线路",
       "is_adult": false
     },
-    "wangershao": {
-      "api": "https://www.xn--4kq62z5rby2qupq9ub.top/",
-      "name": "王二小放牛娃",
+    "feimao": {
+      "api": "https://肥猫.com/",
+      "name": "肥猫线路",
       "is_adult": false
     },
-    "nxog": {
-      "api": "https://tv.nxog.top/",
-      "name": "欧歌tvAPI",
+    "yunxingriji": {
+      "api": "http://itvbox.cc/云星日记",
+      "name": "云星日记",
       "is_adult": false
     },
-    "qist": {
-      "api": "https://github.com/qist/tvbox",
-      "name": "qist/tvbox",
+    "moyu4k": {
+      "api": "http://我不是.摸鱼儿.top",
+      "name": "摸鱼4K",
       "is_adult": false
     },
-    "dlgt7": {
-      "api": "https://github.com/dlgt7/TVbox-interface",
-      "name": "TVbox-interface",
+    "moyuduo": {
+      "api": "http://小鱼干.摸鱼儿.top",
+      "name": "摸鱼多仓",
       "is_adult": false
     },
-    "yuanzl77": {
-      "api": "https://yuanzl77.github.io/",
-      "name": "LR",
+    "gaoshanliuyun": {
+      "api": "https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master",
+      "name": "高山流云",
       "is_adult": false
     },
-    "tvboxfit": {
-      "api": "https://www.tvbox.fit/",
-      "name": "TVBOX接口地址编辑器",
+    "qiaoji": {
+      "api": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "巧计",
+      "is_adult": false
+    },
+    "aiwangzhe": {
+      "api": "http://pan.iwzhe.com/iwysjk.json",
+      "name": "爱网者",
+      "is_adult": false
+    },
+    "buliangshuai": {
+      "api": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+      "name": "不良帅",
+      "is_adult": false
+    },
+    "cainisi": {
+      "api": "https://tv.xn--yhqu5zs87a.top",
+      "name": "菜妮丝",
+      "is_adult": false
+    },
+    "chunying": {
+      "api": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
+      "name": "春盈",
+      "is_adult": false
+    },
+    "duhe": {
+      "api": "https://tv.youdu.fan:666",
+      "name": "毒盒多仓",
+      "is_adult": false
+    },
+    "yunshubei": {
+      "api": "https://youdu.fan/DC.txt",
+      "name": "备",
+      "is_adult": false
+    },
+    "yunshucang": {
+      "api": "https://weixine.net/api.json",
+      "name": "运输车多仓",
+      "is_adult": false
+    },
+    "yunshubei2": {
+      "api": "https://cf.weixine.net/api.json",
+      "name": "备",
+      "is_adult": false
+    },
+    "daochang": {
+      "api": "https://pastebin.com/raw/5NHaxyGR",
+      "name": "道长线路",
+      "is_adult": false
+    },
+    "xiangyaqing": {
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "香雅情线路",
+      "is_adult": false
+    },
+    "xiaomi": {
+      "api": "http://xhww.fun/小米/DEMO.json",
+      "name": "小米线路",
+      "is_adult": false
+    },
+    "ray": {
+      "api": "https://xhdwc.tk/0",
+      "name": "Ray线路",
+      "is_adult": false
+    },
+    "pg": {
+      "api": "https://agit.ai/leevi/PG/raw/branch/master/jsm.json",
+      "name": "PG线路",
+      "is_adult": false
+    },
+    "gaotianliuyun": {
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "name": "高天流云",
+      "is_adult": false
+    },
+    "chunylingsao": {
+      "api": "https://100km.top/0",
+      "name": "纯一零骚",
+      "is_adult": false
+    },
+    "qiaoer": {
+      "api": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "巧儿接口",
+      "is_adult": false
+    },
+    "okdiaozhentian": {
+      "api": "https://already.free.hr/okcaptain/okjar/rm/ok.json",
+      "name": "OK吊炸天",
+      "is_adult": false
+    },
+    "junlao": {
+      "api": "http://home.jundie.top:81/top98.json",
+      "name": "俊佬线路",
+      "is_adult": false
+    },
+    "laoliubei": {
+      "api": "https://raw.liucn.cc/box/m.json",
+      "name": "老刘备线路",
+      "is_adult": false
+    },
+    "cainisixianlu": {
+      "api": "https://tvbox.cainisi.cf",
+      "name": "菜妮丝线路",
+      "is_adult": false
+    },
+    "xiaosa": {
+      "api": "https://cn.kstore.space/download/2863/01.txt",
+      "name": "潇洒线路",
+      "is_adult": false
+    },
+    "nanfeng": {
+      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "南风线路",
+      "is_adult": false
+    },
+    "mayitianlun": {
+      "api": "https://cn.kstore.space/download/2883/0110.txt",
+      "name": "蚂蚁论坛",
+      "is_adult": false
+    },
+    "yueguangbaohe": {
+      "api": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
+      "name": "月光宝盒",
+      "is_adult": false
+    },
+    "ouge": {
+      "api": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+      "name": "欧歌线路",
+      "is_adult": false
+    },
+    "shuanghuiyueming": {
+      "api": "https://api-lmteam.koyeb.app/files/py.json",
+      "name": "霜辉月明",
+      "is_adult": false
+    },
+    "wuai": {
+      "api": "http://52bsj.vip:98/wuai",
+      "name": "吾爱线路",
+      "is_adult": false
+    },
+    "yunxingriji2": {
+      "api": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+      "name": "云星日记",
+      "is_adult": false
+    },
+    "yunshu": {
+      "api": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+      "name": "运输车线路",
+      "is_adult": false
+    },
+    "xingchen": {
+      "api": "http://8.210.232.168/xc.json",
+      "name": "星辰线路",
+      "is_adult": false
+    },
+    "fenxiangzhe": {
+      "api": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+      "name": "分享者线路",
+      "is_adult": false
+    },
+    "shenxian": {
+      "api": "http://sx.liuyun.wang:88/img",
+      "name": "神仙线路",
+      "is_adult": false
+    },
+    "buliangshuai2": {
+      "api": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
+      "name": "不良帅线路",
+      "is_adult": false
+    },
+    "miaoying": {
+      "api": "http://meowtv.cn/tv",
+      "name": "喵影线路",
+      "is_adult": false
+    },
+    "wanda": {
+      "api": "https://www.macms.pro/box/3.json",
+      "name": "万达线路",
+      "is_adult": false
+    },
+    "kvymin": {
+      "api": "https://agit.ai/kvymin/TVBox/raw/branch/master/Pandora.json",
+      "name": "kvymin线路",
+      "is_adult": false
+    },
+    "agitabc": {
+      "api": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+      "name": "agit/abc线路",
+      "is_adult": false
+    },
+    "xiaohu": {
+      "api": "http://xiaohu.xzam.cn/xiaohu",
+      "name": "小胡线路",
+      "is_adult": false
+    },
+    "xiaoma": {
+      "api": "https://szyyds.cn/tv/x.json",
+      "name": "小马线路",
+      "is_adult": false
+    },
+    "lielang": {
+      "api": "https://yyds.lltv8.top/yyds.json",
+      "name": "猎狼线路",
+      "is_adult": false
+    },
+    "yeyu": {
+      "api": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+      "name": "业余线路",
+      "is_adult": false
+    },
+    "hechengchaxiu": {
+      "api": "http://rihou.cc:88/荷城茶秀",
+      "name": "荷城茶秀",
+      "is_adult": false
+    },
+    "yemaozi": {
+      "api": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+      "name": "夜猫子",
+      "is_adult": false
+    },
+    "yuanzhoulv": {
+      "api": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
+      "name": "圆周率线路",
+      "is_adult": false
+    },
+    "yueer": {
+      "api": "https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
+      "name": "月儿线路",
+      "is_adult": false
+    },
+    "chunyingxianlu": {
+      "api": "https://wds.ecsxs.com/230989.json",
+      "name": "春盈线路",
+      "is_adult": false
+    },
+    "erha": {
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+      "name": "二哈线路",
+      "is_adult": false
+    },
+    "wuyi": {
+      "api": "http://www.wya6.cn/tv/yc.json",
+      "name": "无意线路",
+      "is_adult": false
+    },
+    "duoduo": {
+      "api": "https://yydsys.top/duo",
+      "name": "多多",
+      "is_adult": false
+    },
+    "xiaopingguo": {
+      "api": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+      "name": "小苹果接口",
+      "is_adult": false
+    },
+    "shenqirichu": {
+      "api": "https://神器每日推送.tk/pz.json",
+      "name": "神器每日推送",
+      "is_adult": false
+    },
+    "dudubox": {
+      "api": "https://毒盒.com/tv",
+      "name": "毒盒",
       "is_adult": false
     }
   }
